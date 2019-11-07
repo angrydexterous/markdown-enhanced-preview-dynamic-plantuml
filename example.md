@@ -1,3 +1,6 @@
+Here's a programmatic gantt chart in python using plantuml with no intermediate files saved! 
+
+
 ```python {cmd="python" hide continue run_on_save matplotlib=true}
 from os import path
 import io
